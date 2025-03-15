@@ -1,4 +1,4 @@
-# Globetrotter API
+# Globetrotter 
 
 ## Overview
 
